@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538222483 source:c:\users\asus\downloads\os brar\lab mm\soal3\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<string.h>
+

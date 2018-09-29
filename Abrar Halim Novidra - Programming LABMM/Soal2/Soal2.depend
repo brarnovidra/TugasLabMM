@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1538220484 source:c:\users\asus\downloads\os brar\lab mm\soal2\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+
+1538196246 source:c:\users\asus\downloads\os brar\lab mm\soal2\main2.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+
